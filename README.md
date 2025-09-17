@@ -24,7 +24,6 @@ network-slicing-rl/
 │
 ├── Phase1_Report.pdf      # MDP formulation, environment, Policy Iteration
 ├── Phase2_Report.pdf      # Q-learning, Deep RL, larger network experiments
-├── Presentation.pdf      # Q-learning, Deep RL, larger network experiments
 ├── Final.ipynb            # Full Python implementation with simulations and experiments
 └── README.md              # This file
 ```
