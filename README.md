@@ -13,14 +13,13 @@ Phase 1 Report: MDP modeling and Policy Iteration for small-scale networks.
 Phase 2 Report: Tabular Q-learning and Deep RL approaches for larger networks.
 
 Final.ipynb: Complete Python implementation combining simulation and experiments.
-
-`text
+### Project Structure
 network-slicing-rl/
 │
 ├── Phase1_Report.pdf      # MDP formulation, environment, Policy Iteration
 ├── Phase2_Report.pdf      # Q-learning, Deep RL, larger network experiments
 ├── Final.ipynb            # Full Python implementation
-└── README.md`
+└── README.md
 
 
 ### Usage
