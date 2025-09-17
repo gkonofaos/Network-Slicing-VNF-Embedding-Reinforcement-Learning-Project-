@@ -14,13 +14,13 @@ Phase 2 Report: Tabular Q-learning and Deep RL approaches for larger networks.
 
 Final.ipynb: Complete Python implementation combining simulation and experiments.
 
-### Project Structure
-    Network-Slicing-VNF-Embedding-Reinforcement-Learning-Project-/
+`network-slicing-rl/
 │
 ├── Phase1_Report.pdf      # MDP formulation, environment, Policy Iteration
 ├── Phase2_Report.pdf      # Q-learning, Deep RL, larger network experiments
 ├── Final.ipynb            # Full Python implementation
-└── README.md
+└── README.md`
+
 
 ### Usage
 
